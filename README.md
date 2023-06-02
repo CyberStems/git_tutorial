@@ -10,3 +10,5 @@ To get to this point in the tutorial I needed to install git, add the git exe to
 ## local development
 
 1. Open index.html in your browser
+2. Have fun
+3. test
